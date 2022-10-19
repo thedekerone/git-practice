@@ -1,1 +1,2 @@
-console.log("aea")
+console.log("aea mongol");
+console.log("gaaaaa");
